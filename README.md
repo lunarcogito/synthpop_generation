@@ -1,1 +1,1 @@
-# synthpop_gan
+# synthpop_generation
